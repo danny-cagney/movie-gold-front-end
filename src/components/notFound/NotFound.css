@@ -1,0 +1,11 @@
+.not-found-parent-container {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    height: 100vh; /* Optional: Set a specific height or use 100% for full viewport height */
+  }
+  
+.not-found-centered-div {
+    /* Your styles for the centered content */
+  }
+  
