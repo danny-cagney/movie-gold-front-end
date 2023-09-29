@@ -1,3 +1,5 @@
+I wish to acknowledge the work of Gavin Lon and FreeCodeCamp for the following account/repo [repo](https://github.com/GavinLonDigital/movie-gold-v1/tree/master)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
